@@ -19,13 +19,13 @@ SET time_zone
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `hapus_ala_google`
+-- Database: `hapus_ala_gmail`
 --
 CREATE DATABASE
-IF NOT EXISTS `hapus_ala_google` DEFAULT CHARACTER
+IF NOT EXISTS `hapus_ala_gmail` DEFAULT CHARACTER
 SET latin1
 COLLATE latin1_swedish_ci;
-USE `hapus_ala_google`;
+USE `hapus_ala_gmail`;
 
 -- --------------------------------------------------------
 

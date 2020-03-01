@@ -1,6 +1,6 @@
 <?php
 
-$database	= 'hapus_ala_google';
+$database	= 'hapus_ala_gmail';
 $sumber		= 'mysql:dbname=' . $database . ';host=127.0.0.1';
 $user 		= 'root';
 $password 	= '';
